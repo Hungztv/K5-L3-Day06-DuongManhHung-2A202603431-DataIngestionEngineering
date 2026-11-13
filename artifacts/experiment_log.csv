@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,500,50,"document_id,source,page,chunk_strategy,char_count",none,sentence-transformers/all-MiniLM-L6-v2 (384d cosine),Fixed-size overlap sẽ bắt được evidence nằm giữa trang tốt hơn paragraph chunking,7/15,12/15,2/6,5/6,"4481 chunks avg 465 chars; Hit@1 cao nhất nhưng EvidHit@3 thấp hơn B/C"
+B,by_paragraph,800,0,"document_id,source,page,chunk_strategy,char_count",none,sentence-transformers/all-MiniLM-L6-v2 (384d cosine),Paragraph chunking giữ nguyên ý đoạn văn → coherence tốt hơn → retrieval tốt hơn,4/15,14/15,2/6,4/6,"2726 chunks avg 695 chars; EvidHit@3 dev cao nhất (93.3%)"
+C,by_paragraph,800,0,"document_id,source,page,chunk_strategy,char_count,chapter,document_type,language",document_type=textbook,sentence-transformers/all-MiniLM-L6-v2 (384d cosine),Metadata filter thu hẹp không gian tìm kiếm → precision cao hơn với câu có filter,4/15,14/15,2/6,4/6,"2726 chunks avg 695 chars; filter document_type=textbook không discriminative vì mọi chunk đều textbook; B và C có kết quả giống nhau"

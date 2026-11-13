@@ -1,0 +1,234 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "direct",
+    "question": "What is a latent function in sociology, and can it be harmful?",
+    "expected_answer": "Latent functions are unintended consequences of social processes. They can be beneficial, neutral, or harmful. Harmful latent functions are called dysfunctions.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 31,
+    "evidence_quote": "Latent functions can be beneficial, neutral, or harmful. Social processes that have undesirable consequences for the operation of society are called dysfunctions.",
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "direct",
+    "question": "What are examples of dysfunctions in education according to structural-functional theory?",
+    "expected_answer": "Examples of dysfunction in education include getting bad grades, truancy, dropping out, not graduating, and not finding suitable employment.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 31,
+    "evidence_quote": "In education, examples of dysfunction include getting bad grades, truancy, dropping out, not graduating, and not finding suitable employment.",
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "direct",
+    "question": "What is the main criticism of structural-functional theory?",
+    "expected_answer": "One criticism of the structural-functional theory is that it cannot adequately explain social change.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 31,
+    "evidence_quote": "One criticism of the structural-functional theory is that it can't adequately explain social change",
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "direct",
+    "question": "What is the Agricultural Revolution and when did it occur?",
+    "expected_answer": "The Agricultural Revolution was an explosion of new technology that made farming possible and profitable, occurring around 10,000 B.C.E.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 111,
+    "evidence_quote": "Around 10,000 B.C.E., an explosion of new technology known as the Agricultural Revolution made farming possible—and profitable.",
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "direct",
+    "question": "How did farmers improve harvests during the Agricultural Revolution?",
+    "expected_answer": "Farmers learned to rotate the types of crops grown on their fields and to reuse waste products such as manure as fertilizer, which led to better harvests and bigger food surpluses.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 111,
+    "evidence_quote": "Farmers learned to rotate the types of crops grown on their fields and to reuse waste products such as manure as fertilizer, which led to better harvests and bigger surpluses of food.",
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "direct",
+    "question": "According to conflict theorists, what divided people in Marx's time?",
+    "expected_answer": "Marx believed people were divided into two main groups: those who owned factories (bourgeois capitalists) and those who worked in them (proletariats).",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 261,
+    "evidence_quote": "People were divided into two main groups: they either owned factories or worked in them. In Marx's time, bourgeois capitalists owned high-producing businesses, factories, and land.",
+    "filter": null
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "How did Karl Marx explain social stratification in the industrial era?",
+    "expected_answer": "Marx believed social stratification resulted from people's relationship to production. The bourgeoisie owned capital and means of production, while the proletariat performed manual labor.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 261,
+    "evidence_quote": "Marx believed social stratification resulted from people's relationship to production.",
+    "filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "direct",
+    "question": "What did music research find about the emotions recognized by tribal members listening to Western piano?",
+    "expected_answer": "Tribal members were able to recognize three basic emotions: happiness, sadness, and fear, suggesting music is a kind of universal language.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 81,
+    "evidence_quote": "they were able to recognize three basic emotions: happiness, sadness, and fear. Music, the study suggested, is a sort of universal language.",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "direct",
+    "question": "What is cyberfeminism?",
+    "expected_answer": "Cyberfeminism is the application to, and promotion of, feminism online.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 231,
+    "evidence_quote": "cyberfeminism, the application to, and promotion of, feminism online.",
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "direct",
+    "question": "What is the control theory in sociology?",
+    "expected_answer": "Control theory is a theory that states social control is directly affected by the strength of social bonds and that deviance results from a feeling of disconnection from society.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 201,
+    "evidence_quote": "control theory a theory that states social control is directly affected by the strength of social bonds and that deviance results from a feeling of disconnection from society",
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "direct",
+    "question": "What is corporate crime?",
+    "expected_answer": "Corporate crime is crime committed by white-collar workers in a business environment.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 201,
+    "evidence_quote": "corporate crime crime committed by white-collar workers in a business environment",
+    "filter": null
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "filter",
+    "question": "What is the conflict theory of criminal deviance?",
+    "expected_answer": "Conflict theory examines social and economic factors as the causes of criminal deviance.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 201,
+    "evidence_quote": "conflict theory a theory that examines social and economic factors as the causes of criminal deviance",
+    "filter": {"document_type": "textbook"}
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "direct",
+    "question": "How is polygamy described in terms of prevalence in societies where it is most common?",
+    "expected_answer": "In societies where polygamy is most common, only an average of 11 percent of the population lives in arrangements that include more than one spouse.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 421,
+    "evidence_quote": "only an average of 11 percent of the population lives in arrangements that include more than one spouse",
+    "filter": null
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "direct",
+    "question": "What are the key concepts of Taoism according to the textbook?",
+    "expected_answer": "The ying-yang symbol and the concept of polar forces are central Taoist ideas. Taoism is concerned with a more spiritual level of being, in contrast to Confucianism which focuses on day-to-day rules of conduct.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 461,
+    "evidence_quote": "The ying-yang symbol and the concept of polar forces are central Taoist ideas.",
+    "filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "filter",
+    "question": "What happened to maternal deaths according to Millennium Development Goal 5?",
+    "expected_answer": "Much progress was made on MDG 5, with maternal deaths decreasing by 34 percent. However, almost all maternal deaths occurred in developing countries, with the African region still experiencing high numbers.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 581,
+    "evidence_quote": "Much progress has been made on MDG 5, with maternal deaths decreasing by 34 percent.",
+    "filter": {"document_type": "textbook"}
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "type": "direct",
+    "question": "According to the survey data, at what age do Millennials consider someone to be old?",
+    "expected_answer": "According to the survey, Millennials consider someone to be old at age 59.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 381,
+    "evidence_quote": "At what age is someone old? 73 65 59",
+    "filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "type": "direct",
+    "question": "At what age do Baby Boomers consider the prime of life to be?",
+    "expected_answer": "Baby Boomers consider the prime of life to be at age 50.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 381,
+    "evidence_quote": "At what age is the prime of life? 50 47 36",
+    "filter": null
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "type": "paraphrase",
+    "question": "What was Korea's relationship with Japan in the early twentieth century?",
+    "expected_answer": "Japan held Korea as a colony between 1910 and 1945. Koreans argue that Japanese textbooks whitewash this colonial history.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 141,
+    "evidence_quote": "it held Korea as a colony between 1910 and 1945.",
+    "filter": null
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "type": "filter",
+    "question": "What is miscegenation and when was it considered illegal?",
+    "expected_answer": "Miscegenation refers to racial intermarriage. Prior to the twentieth century, racial intermarriage was extremely rare, and in many places, illegal.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 301,
+    "evidence_quote": "Prior to the twentieth century, racial intermarriage (referred to as miscegenation) was extremely rare, and in many places, illegal.",
+    "filter": {"document_type": "textbook"}
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "type": "direct",
+    "question": "What did Jerry Newman's undercover work at fast food restaurants reveal?",
+    "expected_answer": "Newman found that fast food restaurants offered much good alongside the bad. Employees were honest and hardworking, management was often impressive, and the jobs required a lot more skill than expected.",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 171,
+    "evidence_quote": "Newman found that these restaurants offer much good alongside the bad. Specifically, he asserted that the employees were honest and hardworking, that management was often impressive, and that the jobs required a lot more sk",
+    "filter": null
+  },
+  {
+    "id": "q21",
+    "split": "test",
+    "type": "filter",
+    "question": "What is the role of the independent variable in sociological research as explained in the textbook?",
+    "expected_answer": "The independent variable is the variable that is manipulated or changed in a hypothesis. For example, teaching proper hygiene (independent variable) may affect self-esteem (dependent variable).",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": 51,
+    "evidence_quote": "a researcher might hypothesize that teaching children proper hygiene (the independent variable) will boost their sense of self-esteem (the dependent variable)",
+    "filter": {"document_type": "textbook"}
+  }
+]
+

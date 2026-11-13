@@ -1,0 +1,13 @@
+{
+  "source_id": "openstax-introduction-sociology-3e",
+  "title": "Introduction to Sociology 3e",
+  "source_path_or_url": "https://assets.openstax.org/oscms-prodcms/media/documents/introduction-sociology-3e_-_WEB.pdf",
+  "license_or_permission": "CC BY 4.0, OpenStax",
+  "accessed_at": "2026-11-13",
+  "local_file": "openstax-introduction-sociology-3e.pdf",
+  "snapshot_or_version": "3rd edition",
+  "page_count_physical": 664,
+  "content_page_count_extracted": 662,
+  "page_count_rule": "Count physical pages with non-empty extracted text; exclude cover/front matter only when defining the usable corpus.",
+  "notes": "The PDF was downloaded from the official OpenStax assets host. The full book is retained locally; the benchmark must document the selected content pages and exclude pages that are blank or irrelevant."
+}

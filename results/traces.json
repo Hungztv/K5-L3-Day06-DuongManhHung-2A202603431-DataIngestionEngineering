@@ -1,0 +1,2672 @@
+[
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "question": "What is a latent function in sociology, and can it be harmful?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      31
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0483-fixed-0005",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 483,
+        "score": 0.7077569500207663,
+        "is_hit": false,
+        "text_snippet": "ever to maintain. Another latent function is the ability to work with others in small\ngroups, a skill that is transferable to a workplace and that might not be learned in a homeschool setting.\nThe edu"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0031-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 31,
+        "score": 0.6460000006263211,
+        "is_hit": true,
+        "text_snippet": "a hierarchy of employment based on the level of education attained. Latent functions can be beneficial,\nneutral, or harmful. Social processes that have undesirable consequences for the operation of so"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0483-fixed-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 483,
+        "score": 0.6257902321706519,
+        "is_hit": false,
+        "text_snippet": "ten more motivated to study areas that they believe will be advantageous on the social ladder. A\nstudent might value business courses over a class in Victorian poetry because she sees business class a"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "question": "What are examples of dysfunctions in education according to structural-functional theory?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      31
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0031-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 31,
+        "score": 0.7408413106074138,
+        "is_hit": true,
+        "text_snippet": "a hierarchy of employment based on the level of education attained. Latent functions can be beneficial,\nneutral, or harmful. Social processes that have undesirable consequences for the operation of so"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0496-fixed-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 496,
+        "score": 0.5936660494089792,
+        "is_hit": false,
+        "text_snippet": ". Self-fulfilling prophecy\nd. Tracking\n11 . Functionalist theory sees education as serving the needs of _________.\na. families\nb. society\nc. the individual\nd. all of the above\n12 . Rewarding students "
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0496-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 496,
+        "score": 0.5801030462506207,
+        "is_hit": false,
+        "text_snippet": "b. Feminist theory\nc. Functionalist theory\nd. Symbolic interactionism\n9 . Which theory of education focuses on the labels acquired through the educational process?\na. Conflict theory\nb. Feminist theor"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "question": "What is the main criticism of structural-functional theory?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      31
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0030-fixed-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 30,
+        "score": 0.6185289318877494,
+        "is_hit": false,
+        "text_snippet": "sociologists to view\nsocial issues through a variety of useful lenses.\nFunctionalism\nFunctionalism, also called structural-functional theory, sees society as a structure with interrelated parts\ndesign"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0156-fixed-0005",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 156,
+        "score": 0.5777895734530007,
+        "is_hit": false,
+        "text_snippet": "h all parts\nnecessary to the whole, and it studies the roles these parts play in relation to the whole. A Functionalist might\nlook at the macro-level needs that each movement serves. For example, a St"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0302-fixed-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 302,
+        "score": 0.5627174834120036,
+        "is_hit": false,
+        "text_snippet": "se theories, ask yourself which one makes the\nmost sense and why.\nFunctionalism\nFunctionalism emphasizes that all the elements of society have functions that promote solidarity and maintain\norder and "
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "question": "What is the Agricultural Revolution and when did it occur?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      111
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0533-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 533,
+        "score": 0.7048615536085718,
+        "is_hit": false,
+        "text_snippet": "The Agricultural Revolution\nThe first true economies arrived when people started raising crops and domesticating animals. Although there\nis still a great deal of disagreement among archeologists as to"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0111-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 111,
+        "score": 0.6768333672738532,
+        "is_hit": true,
+        "text_snippet": "Agricultural\nWhile pastoral and horticultural societies used small, temporary tools such as digging sticks or hoes,\nagricultural societies relied on permanent tools for survival. Around 10,000 B.C.E.,"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0533-fixed-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 533,
+        "score": 0.6760718361735589,
+        "is_hit": false,
+        "text_snippet": "a between 5,000 and 3,000 years ago (Diamond 2003).\nFIGURE 18.4 Agricultural practices have emerged in different societies at different times. (Information: Wikimedia\nCommons)\nAgriculture began with t"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "question": "How did farmers improve harvests during the Agricultural Revolution?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      111
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0111-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 111,
+        "score": 0.6945806595792308,
+        "is_hit": true,
+        "text_snippet": "Agricultural\nWhile pastoral and horticultural societies used small, temporary tools such as digging sticks or hoes,\nagricultural societies relied on permanent tools for survival. Around 10,000 B.C.E.,"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0533-fixed-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 533,
+        "score": 0.6781004671827382,
+        "is_hit": false,
+        "text_snippet": "s not only to feed themselves but also to feed\nothers. Knowing there would be abundant food each year as long as crops were tended led people to abandon\nthe nomadic life of hunter-gatherers and settle"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0535-fixed-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 535,
+        "score": 0.6711064377776703,
+        "is_hit": false,
+        "text_snippet": "g in which they produced only enough to feed themselves and pay their taxes. New\ntechnology introduced gasoline-powered farm tools such as tractors, seed drills, threshers, and combine\nharvesters. Far"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "question": "According to conflict theorists, what divided people in Marx's time?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      261
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0261-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 261,
+        "score": 0.7337104636396741,
+        "is_hit": true,
+        "text_snippet": "Many conflict theorists draw on the work of Karl Marx. During the nineteenth-century era of industrialization,\nMarx believed social stratification resulted from people’s relationship to production. Pe"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0517-fixed-0008",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 517,
+        "score": 0.684155813188571,
+        "is_hit": false,
+        "text_snippet": "e conflict\ntheory perspective; he viewed social structure, rather than individual personality characteristics, as the cause\nof many social problems, such as poverty and crime. Marx believed that confl"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0114-fixed-0007",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 114,
+        "score": 0.645715303640743,
+        "is_hit": false,
+        "text_snippet": "is experienced in\ntimes of social uncertainty, such as war or a great upturn or downturn in the economy. As societies reach an\nadvanced stage of organic solidarity, they avoid anomie by redeveloping a"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "question": "How did Karl Marx explain social stratification in the industrial era?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      261
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0261-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 261,
+        "score": 0.6988152300851653,
+        "is_hit": true,
+        "text_snippet": "Many conflict theorists draw on the work of Karl Marx. During the nineteenth-century era of industrialization,\nMarx believed social stratification resulted from people’s relationship to production. Pe"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0114-fixed-0007",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 114,
+        "score": 0.6371819550297053,
+        "is_hit": false,
+        "text_snippet": "is experienced in\ntimes of social uncertainty, such as war or a great upturn or downturn in the economy. As societies reach an\nadvanced stage of organic solidarity, they avoid anomie by redeveloping a"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0264-fixed-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 264,
+        "score": 0.6110317346239391,
+        "is_hit": false,
+        "text_snippet": "ferent\nopportunities and success of rich business owners and their lower paid workers. Symbolic interactionists\nexamine stratification from a micro-level perspective. They observe how social standing "
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "question": "What did music research find about the emotions recognized by tribal members listening to Western piano?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      81
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0081-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 81,
+        "score": 0.7390843446884048,
+        "is_hit": true,
+        "text_snippet": "experience within which to interpret its music. Even so, as the tribal members listened to a Western piano piece,\nthey were able to recognize three basic emotions: happiness, sadness, and fear. Music,"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0080-fixed-0009",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 80,
+        "score": 0.6246879262534898,
+        "is_hit": false,
+        "text_snippet": "The\nresearch team traveled to Cameroon, Africa, and asked Mafa tribal members to listen to Western music. The\ntribe, isolated from Western culture, had never been exposed to Western culture and had no"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0080-fixed-0008",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 80,
+        "score": 0.5624668098217589,
+        "is_hit": false,
+        "text_snippet": "movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical "
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "question": "What is cyberfeminism?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      231
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0232-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 232,
+        "score": 0.776801643173692,
+        "is_hit": false,
+        "text_snippet": "Key Terms\ncyberfeminism the application to and promotion of feminism online\ndesign patents patents that are granted when someone has invented a new and original design for a\nmanufactured product\ndigit"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0231-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 231,
+        "score": 0.6203377697692165,
+        "is_hit": true,
+        "text_snippet": "access, at the same time new media could offer alternative forums for feminist groups and the exchange of\nfeminist ideas. Still, the committee warned against the relatively unregulated environment of "
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0647-fixed-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 647,
+        "score": 0.569714174277008,
+        "is_hit": false,
+        "text_snippet": ". Ogburn (1922) might have been\ndescribing it nearly a century ago when he defined \"cultural lag,\" which occurs when material culture precedes\nnonmaterial culture. That is, society may not fully compr"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "question": "What is the control theory in sociology?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      201
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0193-fixed-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 193,
+        "score": 0.6919211170995441,
+        "is_hit": false,
+        "text_snippet": "early thirties. Even when taking socioeconomic factors such as dangerous neighborhoods, poor school\nsystems, and overcrowded housing into consideration, researchers found that parents were the main in"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0201-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 201,
+        "score": 0.6468705814815372,
+        "is_hit": true,
+        "text_snippet": "Key Terms\nconflict theory a theory that examines social and economic factors as the causes of criminal deviance\ncontrol theory a theory that states social control is directly affected by the strength "
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0029-fixed-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 29,
+        "score": 0.6295644944343259,
+        "is_hit": false,
+        "text_snippet": "teractions, and patterns, and they develop theories to explain why things\nwork as they do. In sociology, a theory is a way to explain different aspects of social interactions and to create a\ntestable "
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "question": "What is corporate crime?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      201
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0195-fixed-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 195,
+        "score": 0.7149716854113324,
+        "is_hit": false,
+        "text_snippet": "spaces. An often overlooked category is corporate crime, or\ncrime committed by white-collar workers in a business environment. Embezzlement, insider trading, and\nidentity theft are all types of corpor"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0203-fixed-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 203,
+        "score": 0.5696357857711292,
+        "is_hit": false,
+        "text_snippet": "alues that exist in their community.\n11 . ______ deviance is a violation of norms that ______result in a person being labeled a deviant.\na. Secondary; does not\nb. Negative; does\nc. Primary; does not\nd"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0195-fixed-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 195,
+        "score": 0.5395917722792929,
+        "is_hit": false,
+        "text_snippet": "force. Because of this, they are also sometimes called “property crimes.” Larceny, car\ntheft, and vandalism are all types of nonviolent crimes. If you use a crowbar to break into a car, you are\ncommit"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "question": "What is the conflict theory of criminal deviance?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      201
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0201-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 201,
+        "score": 0.8122742868898772,
+        "is_hit": true,
+        "text_snippet": "Key Terms\nconflict theory a theory that examines social and economic factors as the causes of criminal deviance\ncontrol theory a theory that states social control is directly affected by the strength "
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0188-fixed-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 188,
+        "score": 0.7261297653708905,
+        "is_hit": false,
+        "text_snippet": "olence. Research into social disorganization theory can greatly\ninfluence public policy. For instance, studies have found that children from disadvantaged communities who\nattend preschool programs tha"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0186-fixed-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 186,
+        "score": 0.7023539640239804,
+        "is_hit": false,
+        "text_snippet": "alist view of deviance in society through four sociologist’s theories\n• Explain how conflict theory understands deviance and crime in society\n• Describe the symbolic interactionist approach to devianc"
+      }
+    ],
+    "filter_used": {
+      "document_type": "textbook"
+    },
+    "strategy": "A"
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "question": "How is polygamy described in terms of prevalence in societies where it is most common?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      421
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0420-fixed-0009",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 420,
+        "score": 0.7502153816911241,
+        "is_hit": false,
+        "text_snippet": "019). Instances of polygamy are almost exclusively in the form of a man\nbeing married to more than one woman at the same time, rather than a woman being married to more than\none man (Altman and Ginat "
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0442-fixed-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 442,
+        "score": 0.7110538184216286,
+        "is_hit": false,
+        "text_snippet": "ruary 13, 2012 (http://www.usatoday.com/yourlife/sex-relationships/marriage/\n2010-11-18-pew18_ST_N.htm).\nJoseph, Suad, and Afsaneh Najmabadi. 2003. “Kinship and State: Southeast Asia, East Asia, Austr"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0420-fixed-0008",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 420,
+        "score": 0.7085848012476216,
+        "is_hit": false,
+        "text_snippet": "United States typically equate marriage with monogamy, when someone is married to only one\nperson at a time. In many countries and cultures around the world, however, having one spouse is not the only"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "question": "What are the key concepts of Taoism according to the textbook?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      461
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0460-fixed-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 460,
+        "score": 0.743271336817629,
+        "is_hit": false,
+        "text_snippet": "a. Taoist beliefs emphasize the virtues of compassion and moderation.\nThe central concept of tao can be understood to describe a spiritual reality, the order of the universe, or the\n448 15 • Religion\n"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0460-fixed-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 460,
+        "score": 0.6175507312469959,
+        "is_hit": false,
+        "text_snippet": "anarchy and a near-complete\ndeterioration of social cohesion. Dissatisfied with the social solutions put forth, Kung Fu-Tzu developed his\nown model of religious morality to help guide society (Smith 1"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0461-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 461,
+        "score": 0.48976407601488836,
+        "is_hit": true,
+        "text_snippet": "way of modern life in harmony with the former two. The ying-yang symbol and the concept of polar forces are\ncentral Taoist ideas (Smith 1991). Some scholars have compared this Chinese tradition to its"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "question": "What happened to maternal deaths according to Millennium Development Goal 5?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      581
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0581-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 581,
+        "score": 0.6246505770400947,
+        "is_hit": true,
+        "text_snippet": "Much progress has been made on MDG 5, with maternal deaths decreasing by 34 percent. However, almost all\nmaternal deaths occurred in developing countries, with the African region still experiencing hi"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0580-fixed-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 580,
+        "score": 0.5848774319126051,
+        "is_hit": false,
+        "text_snippet": "In low-income countries, malaria is\nstill a common cause of death. (Credit: CDC/Wikimedia Commons)\nWHO, which is the health arm of the United Nations, set eight Millennium Development Goals (MDGs) in "
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0580-fixed-0005",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 580,
+        "score": 0.5813558772532359,
+        "is_hit": false,
+        "text_snippet": "n the United States will never contemplate. MDG 4 is to reduce child mortality, MDG 5\naims to improve maternal health, and MDG 6 strives to combat HIV/AIDS, malaria, and other diseases. The\ngoals may "
+      }
+    ],
+    "filter_used": {
+      "document_type": "textbook"
+    },
+    "strategy": "A"
+  },
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "question": "What is a latent function in sociology, and can it be harmful?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      31
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0483-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 483,
+        "score": 0.6626894383808066,
+        "is_hit": false,
+        "text_snippet": "Functions\nEducation also fulfills latent functions. As you well know, much goes on in a school that has little to do with\nformal education. For example, you might notice an attractive fellow student w"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0031-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 31,
+        "score": 0.6445799545200448,
+        "is_hit": true,
+        "text_snippet": "a hierarchy of employment based on the level of education attained. Latent functions can be beneficial,\nneutral, or harmful. Social processes that have undesirable consequences for the operation of so"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0030-paragraph-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 30,
+        "score": 0.6443946478959359,
+        "is_hit": false,
+        "text_snippet": "ften\nhave many functions. Manifest functions are the consequences of a social process that are sought or\nanticipated, while latent functions are the unsought consequences of a social process. A manife"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "question": "What are examples of dysfunctions in education according to structural-functional theory?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      31
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0031-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 31,
+        "score": 0.7520824166335397,
+        "is_hit": true,
+        "text_snippet": "a hierarchy of employment based on the level of education attained. Latent functions can be beneficial,\nneutral, or harmful. Social processes that have undesirable consequences for the operation of so"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0496-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 496,
+        "score": 0.6155861967410546,
+        "is_hit": false,
+        "text_snippet": "b. Feminist theory\nc. Functionalist theory\nd. Symbolic interactionism\n9 . Which theory of education focuses on the labels acquired through the educational process?\na. Conflict theory\nb. Feminist theor"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0030-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 30,
+        "score": 0.5916318428036997,
+        "is_hit": false,
+        "text_snippet": "school?\nTABLE 1.1 Sociological Theories or Perspectives Different sociological perspectives enable sociologists to view\nsocial issues through a variety of useful lenses.\nFunctionalism\nFunctionalism, a"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "question": "What is the main criticism of structural-functional theory?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      31
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0030-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 30,
+        "score": 0.5826209125419641,
+        "is_hit": false,
+        "text_snippet": "school?\nTABLE 1.1 Sociological Theories or Perspectives Different sociological perspectives enable sociologists to view\nsocial issues through a variety of useful lenses.\nFunctionalism\nFunctionalism, a"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0031-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 31,
+        "score": 0.5180470445089095,
+        "is_hit": true,
+        "text_snippet": "a hierarchy of employment based on the level of education attained. Latent functions can be beneficial,\nneutral, or harmful. Social processes that have undesirable consequences for the operation of so"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0038-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 38,
+        "score": 0.5077644203060038,
+        "is_hit": false,
+        "text_snippet": "sly analyzing the behavior of an individual and the society that shapes\nthat behavior\nfunction the part a recurrent activity plays in the social life as a whole and the contribution it makes to\nstruct"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "question": "What is the Agricultural Revolution and when did it occur?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      111
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0533-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 533,
+        "score": 0.6296079069873788,
+        "is_hit": false,
+        "text_snippet": "e, arising in what would become the eastern United States, central Mexico, and\nnorthern South America between 5,000 and 3,000 years ago (Diamond 2003).\nFIGURE 18.4 Agricultural practices have emerged "
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0533-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 533,
+        "score": 0.6243613753266529,
+        "is_hit": false,
+        "text_snippet": "The Agricultural Revolution\nThe first true economies arrived when people started raising crops and domesticating animals. Although there\nis still a great deal of disagreement among archeologists as to"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0111-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 111,
+        "score": 0.6130171293379759,
+        "is_hit": true,
+        "text_snippet": "Agricultural\nWhile pastoral and horticultural societies used small, temporary tools such as digging sticks or hoes,\nagricultural societies relied on permanent tools for survival. Around 10,000 B.C.E.,"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "question": "How did farmers improve harvests during the Agricultural Revolution?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      111
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0111-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 111,
+        "score": 0.6485406833993683,
+        "is_hit": true,
+        "text_snippet": "Agricultural\nWhile pastoral and horticultural societies used small, temporary tools such as digging sticks or hoes,\nagricultural societies relied on permanent tools for survival. Around 10,000 B.C.E.,"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0535-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 535,
+        "score": 0.6190156635082604,
+        "is_hit": false,
+        "text_snippet": "ge, revolutionizing transportation and thereby the entire production of goods\nwith his improved steam engine.\nAs people moved to cities to fill factory jobs, factory production also changed. Workers d"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0533-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 533,
+        "score": 0.6071028494156637,
+        "is_hit": false,
+        "text_snippet": "e, arising in what would become the eastern United States, central Mexico, and\nnorthern South America between 5,000 and 3,000 years ago (Diamond 2003).\nFIGURE 18.4 Agricultural practices have emerged "
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "question": "According to conflict theorists, what divided people in Marx's time?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      261
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0188-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 188,
+        "score": 0.7551178937787891,
+        "is_hit": false,
+        "text_snippet": "simplify social trends (Akers 1991). Conflict\ntheorists also look for answers to the correlation of gender and race with wealth and crime.\nKarl Marx: An Unequal System\nConflict theory was greatly infl"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0261-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 261,
+        "score": 0.7132139830802798,
+        "is_hit": true,
+        "text_snippet": "Many conflict theorists draw on the work of Karl Marx. During the nineteenth-century era of industrialization,\nMarx believed social stratification resulted from people’s relationship to production. Pe"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0517-paragraph-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 517,
+        "score": 0.666844282494729,
+        "is_hit": false,
+        "text_snippet": "ected to the democratic process. This would\nbe in opposition to a conflict theorist who would see this financial contribution as a way for the rich to\nperpetuate their own wealth.\nConflict Theory\nConf"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "question": "How did Karl Marx explain social stratification in the industrial era?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      261
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0266-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 266,
+        "score": 0.7063063985965001,
+        "is_hit": false,
+        "text_snippet": "top than a French restaurant.\nc. Doctors earn more money because their job is more highly valued.\nd. Teachers continue to struggle to keep benefits such as health insurance.\n16 . When Karl Marx said w"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0261-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 261,
+        "score": 0.7046291592588363,
+        "is_hit": true,
+        "text_snippet": "Many conflict theorists draw on the work of Karl Marx. During the nineteenth-century era of industrialization,\nMarx believed social stratification resulted from people’s relationship to production. Pe"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0188-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 188,
+        "score": 0.6753568409379815,
+        "is_hit": false,
+        "text_snippet": "simplify social trends (Akers 1991). Conflict\ntheorists also look for answers to the correlation of gender and race with wealth and crime.\nKarl Marx: An Unequal System\nConflict theory was greatly infl"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "question": "What did music research find about the emotions recognized by tribal members listening to Western piano?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      81
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0081-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 81,
+        "score": 0.7126713629430921,
+        "is_hit": true,
+        "text_snippet": "experience within which to interpret its music. Even so, as the tribal members listened to a Western piano piece,\nthey were able to recognize three basic emotions: happiness, sadness, and fear. Music,"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0080-paragraph-0005",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 80,
+        "score": 0.6090430088739628,
+        "is_hit": false,
+        "text_snippet": "usic that they’d never heard (Fritz et al., 2009). The\nresearch team traveled to Cameroon, Africa, and asked Mafa tribal members to listen to Western music. The\ntribe, isolated from Western culture, h"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0080-paragraph-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 80,
+        "score": 0.5670575058113021,
+        "is_hit": false,
+        "text_snippet": "music is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntowa"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "question": "What is cyberfeminism?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      231
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0232-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 232,
+        "score": 0.7260241222825482,
+        "is_hit": false,
+        "text_snippet": "Key Terms\ncyberfeminism the application to and promotion of feminism online\ndesign patents patents that are granted when someone has invented a new and original design for a\nmanufactured product\ndigit"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0231-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 231,
+        "score": 0.6153741969106334,
+        "is_hit": true,
+        "text_snippet": "access, at the same time new media could offer alternative forums for feminist groups and the exchange of\nfeminist ideas. Still, the committee warned against the relatively unregulated environment of "
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0647-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 647,
+        "score": 0.5251198282149903,
+        "is_hit": false,
+        "text_snippet": "llying (Robers et al. 2013).\nCyberbullying represents a powerful change in modern society. William F. Ogburn (1922) might have been\ndescribing it nearly a century ago when he defined \"cultural lag,\" w"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "question": "What is the control theory in sociology?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      201
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0193-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 193,
+        "score": 0.682066599195192,
+        "is_hit": false,
+        "text_snippet": "s, control theory states that social control is directly\naffected by the strength of social bonds and that deviance results from a feeling of disconnection from society.\nIndividuals who believe they a"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0201-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 201,
+        "score": 0.6299378696254845,
+        "is_hit": true,
+        "text_snippet": "Key Terms\nconflict theory a theory that examines social and economic factors as the causes of criminal deviance\ncontrol theory a theory that states social control is directly affected by the strength "
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0193-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 193,
+        "score": 0.6185854003605027,
+        "is_hit": false,
+        "text_snippet": "one does so.\nSutherland’s theory may explain why crime is multigenerational. A longitudinal study beginning in the 1960s\nfound that the best predictor of antisocial and criminal behavior in children w"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "question": "What is corporate crime?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      201
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0195-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 195,
+        "score": 0.6672290006053673,
+        "is_hit": false,
+        "text_snippet": "e, or offenses committed by ordinary people against\nother people or organizations, usually in public spaces. An often overlooked category is corporate crime, or\ncrime committed by white-collar workers"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0203-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 203,
+        "score": 0.5937141403830424,
+        "is_hit": false,
+        "text_snippet": "reestablished their former habits.\nc. The offender has lost the social bonds they made in prison and feels disconnected from society.\nd. The offender is poor and responding to the different cultural v"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0201-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 201,
+        "score": 0.5073030709648836,
+        "is_hit": true,
+        "text_snippet": "Key Terms\nconflict theory a theory that examines social and economic factors as the causes of criminal deviance\ncontrol theory a theory that states social control is directly affected by the strength "
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "question": "What is the conflict theory of criminal deviance?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      201
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0201-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 201,
+        "score": 0.8214619468859492,
+        "is_hit": true,
+        "text_snippet": "Key Terms\nconflict theory a theory that examines social and economic factors as the causes of criminal deviance\ncontrol theory a theory that states social control is directly affected by the strength "
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0193-paragraph-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 193,
+        "score": 0.7426913245716151,
+        "is_hit": false,
+        "text_snippet": "ry\nUniversity of Chicago\nresearchers\nWeak social ties and a lack of social control; society has lost the\nability to enforce norms with some groups\nConflict Theory Associated Theorist Deviance arises f"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0202-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 202,
+        "score": 0.727540214794944,
+        "is_hit": false,
+        "text_snippet": "that help maintain a system of social control. Deviance is often relative, and perceptions of it can change\nquickly and unexpectedly.\n7.2 Theoretical Perspectives on Deviance and Crime\nThe three major"
+      }
+    ],
+    "filter_used": {
+      "document_type": "textbook"
+    },
+    "strategy": "B"
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "question": "How is polygamy described in terms of prevalence in societies where it is most common?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      421
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0442-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 442,
+        "score": 0.7468305923073539,
+        "is_hit": false,
+        "text_snippet": "Mountain Patterns: The Survival of Nuosu Culture in China.” Journal of American\nFolklore 114:451.\nJayson, Sharon. 2010. “What Does a ‘Family’ Look Like Nowadays?” USA Today, November 25. Retrieved\nFeb"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0420-paragraph-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 420,
+        "score": 0.7430745687875465,
+        "is_hit": false,
+        "text_snippet": "vious patterns of marriage will become outdated\nas new patterns emerge. In this context, cohabitation contributes to the phenomenon of people getting\nmarried for the first time at a later age than was"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0421-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 421,
+        "score": 0.720885983981979,
+        "is_hit": true,
+        "text_snippet": "where it is most common, only an average of 11 percent of the population lives in arrangements that include\nmore than one spouse (Kramer 2020). In these relationships, the husbands are often older, we"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "question": "What are the key concepts of Taoism according to the textbook?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      461
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0460-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 460,
+        "score": 0.6459641259674656,
+        "is_hit": false,
+        "text_snippet": "ner peace and harmony. Tao is usually translated as “way” or “path.” The\nfounder of the religion is generally recognized to be a man named Laozi, who lived sometime in the sixth\ncentury B.C.E. in Chin"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0460-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 460,
+        "score": 0.5982997202116905,
+        "is_hit": false,
+        "text_snippet": "cius), who lived in the sixth and fifth centuries B.C.E. An\nextraordinary teacher, his lessons—which were about self-discipline, respect for authority and tradition, and\njen (the kind treatment of eve"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0461-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 461,
+        "score": 0.4792026868189534,
+        "is_hit": true,
+        "text_snippet": "way of modern life in harmony with the former two. The ying-yang symbol and the concept of polar forces are\ncentral Taoist ideas (Smith 1991). Some scholars have compared this Chinese tradition to its"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "question": "What happened to maternal deaths according to Millennium Development Goal 5?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      581
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0580-paragraph-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 580,
+        "score": 0.589834560406627,
+        "is_hit": false,
+        "text_snippet": "/AIDS, malaria, and other diseases. The\ngoals may not seem particularly dramatic, but the numbers behind them show how serious they are.\nFor MDG 4, the WHO reports that 2009 infant mortality rates in "
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0570-paragraph-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 570,
+        "score": 0.5806280412506692,
+        "is_hit": false,
+        "text_snippet": "ding to a 2014 UNICEF report, almost half of the developing world’s\npopulation lacks improved sanitation facilities. The World Health Organization (WHO) tracks health-related\ndata for 193 countries, a"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0570-paragraph-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 570,
+        "score": 0.555138758550195,
+        "is_hit": false,
+        "text_snippet": "regionally, the highest under-five\nmortality rate remains in the WHO African Region (74 per 1000 live births), around 9 times higher than\nthat in the WHO European Region (8 per 1000 live births) (Worl"
+      }
+    ],
+    "filter_used": {
+      "document_type": "textbook"
+    },
+    "strategy": "B"
+  },
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "question": "What is a latent function in sociology, and can it be harmful?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      31
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0483-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 483,
+        "score": 0.6626894383808066,
+        "is_hit": false,
+        "text_snippet": "Functions\nEducation also fulfills latent functions. As you well know, much goes on in a school that has little to do with\nformal education. For example, you might notice an attractive fellow student w"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0031-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 31,
+        "score": 0.6445799545200448,
+        "is_hit": true,
+        "text_snippet": "a hierarchy of employment based on the level of education attained. Latent functions can be beneficial,\nneutral, or harmful. Social processes that have undesirable consequences for the operation of so"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0030-paragraph-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 30,
+        "score": 0.6443946478959359,
+        "is_hit": false,
+        "text_snippet": "ften\nhave many functions. Manifest functions are the consequences of a social process that are sought or\nanticipated, while latent functions are the unsought consequences of a social process. A manife"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "question": "What are examples of dysfunctions in education according to structural-functional theory?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      31
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0031-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 31,
+        "score": 0.7520824166335397,
+        "is_hit": true,
+        "text_snippet": "a hierarchy of employment based on the level of education attained. Latent functions can be beneficial,\nneutral, or harmful. Social processes that have undesirable consequences for the operation of so"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0496-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 496,
+        "score": 0.6155861967410546,
+        "is_hit": false,
+        "text_snippet": "b. Feminist theory\nc. Functionalist theory\nd. Symbolic interactionism\n9 . Which theory of education focuses on the labels acquired through the educational process?\na. Conflict theory\nb. Feminist theor"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0030-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 30,
+        "score": 0.5916318428036997,
+        "is_hit": false,
+        "text_snippet": "school?\nTABLE 1.1 Sociological Theories or Perspectives Different sociological perspectives enable sociologists to view\nsocial issues through a variety of useful lenses.\nFunctionalism\nFunctionalism, a"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "question": "What is the main criticism of structural-functional theory?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      31
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0030-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 30,
+        "score": 0.5826209125419641,
+        "is_hit": false,
+        "text_snippet": "school?\nTABLE 1.1 Sociological Theories or Perspectives Different sociological perspectives enable sociologists to view\nsocial issues through a variety of useful lenses.\nFunctionalism\nFunctionalism, a"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0031-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 31,
+        "score": 0.5180470445089095,
+        "is_hit": true,
+        "text_snippet": "a hierarchy of employment based on the level of education attained. Latent functions can be beneficial,\nneutral, or harmful. Social processes that have undesirable consequences for the operation of so"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0038-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 38,
+        "score": 0.5077644203060038,
+        "is_hit": false,
+        "text_snippet": "sly analyzing the behavior of an individual and the society that shapes\nthat behavior\nfunction the part a recurrent activity plays in the social life as a whole and the contribution it makes to\nstruct"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "question": "What is the Agricultural Revolution and when did it occur?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      111
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0533-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 533,
+        "score": 0.6296079069873788,
+        "is_hit": false,
+        "text_snippet": "e, arising in what would become the eastern United States, central Mexico, and\nnorthern South America between 5,000 and 3,000 years ago (Diamond 2003).\nFIGURE 18.4 Agricultural practices have emerged "
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0533-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 533,
+        "score": 0.6243613753266529,
+        "is_hit": false,
+        "text_snippet": "The Agricultural Revolution\nThe first true economies arrived when people started raising crops and domesticating animals. Although there\nis still a great deal of disagreement among archeologists as to"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0111-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 111,
+        "score": 0.6130171293379759,
+        "is_hit": true,
+        "text_snippet": "Agricultural\nWhile pastoral and horticultural societies used small, temporary tools such as digging sticks or hoes,\nagricultural societies relied on permanent tools for survival. Around 10,000 B.C.E.,"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "question": "How did farmers improve harvests during the Agricultural Revolution?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      111
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0111-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 111,
+        "score": 0.6485406833993683,
+        "is_hit": true,
+        "text_snippet": "Agricultural\nWhile pastoral and horticultural societies used small, temporary tools such as digging sticks or hoes,\nagricultural societies relied on permanent tools for survival. Around 10,000 B.C.E.,"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0535-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 535,
+        "score": 0.6190156635082604,
+        "is_hit": false,
+        "text_snippet": "ge, revolutionizing transportation and thereby the entire production of goods\nwith his improved steam engine.\nAs people moved to cities to fill factory jobs, factory production also changed. Workers d"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0533-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 533,
+        "score": 0.6071028494156637,
+        "is_hit": false,
+        "text_snippet": "e, arising in what would become the eastern United States, central Mexico, and\nnorthern South America between 5,000 and 3,000 years ago (Diamond 2003).\nFIGURE 18.4 Agricultural practices have emerged "
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "question": "According to conflict theorists, what divided people in Marx's time?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      261
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0188-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 188,
+        "score": 0.7551178937787891,
+        "is_hit": false,
+        "text_snippet": "simplify social trends (Akers 1991). Conflict\ntheorists also look for answers to the correlation of gender and race with wealth and crime.\nKarl Marx: An Unequal System\nConflict theory was greatly infl"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0261-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 261,
+        "score": 0.7132139830802798,
+        "is_hit": true,
+        "text_snippet": "Many conflict theorists draw on the work of Karl Marx. During the nineteenth-century era of industrialization,\nMarx believed social stratification resulted from people’s relationship to production. Pe"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0517-paragraph-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 517,
+        "score": 0.666844282494729,
+        "is_hit": false,
+        "text_snippet": "ected to the democratic process. This would\nbe in opposition to a conflict theorist who would see this financial contribution as a way for the rich to\nperpetuate their own wealth.\nConflict Theory\nConf"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "question": "How did Karl Marx explain social stratification in the industrial era?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      261
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0266-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 266,
+        "score": 0.7063063985965001,
+        "is_hit": false,
+        "text_snippet": "top than a French restaurant.\nc. Doctors earn more money because their job is more highly valued.\nd. Teachers continue to struggle to keep benefits such as health insurance.\n16 . When Karl Marx said w"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0261-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 261,
+        "score": 0.7046291592588363,
+        "is_hit": true,
+        "text_snippet": "Many conflict theorists draw on the work of Karl Marx. During the nineteenth-century era of industrialization,\nMarx believed social stratification resulted from people’s relationship to production. Pe"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0188-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 188,
+        "score": 0.6753568409379815,
+        "is_hit": false,
+        "text_snippet": "simplify social trends (Akers 1991). Conflict\ntheorists also look for answers to the correlation of gender and race with wealth and crime.\nKarl Marx: An Unequal System\nConflict theory was greatly infl"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "question": "What did music research find about the emotions recognized by tribal members listening to Western piano?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      81
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0081-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 81,
+        "score": 0.7126713629430921,
+        "is_hit": true,
+        "text_snippet": "experience within which to interpret its music. Even so, as the tribal members listened to a Western piano piece,\nthey were able to recognize three basic emotions: happiness, sadness, and fear. Music,"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0080-paragraph-0005",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 80,
+        "score": 0.6090430088739628,
+        "is_hit": false,
+        "text_snippet": "usic that they’d never heard (Fritz et al., 2009). The\nresearch team traveled to Cameroon, Africa, and asked Mafa tribal members to listen to Western music. The\ntribe, isolated from Western culture, h"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0080-paragraph-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 80,
+        "score": 0.5670575058113021,
+        "is_hit": false,
+        "text_snippet": "music is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntowa"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "question": "What is cyberfeminism?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      231
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0232-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 232,
+        "score": 0.7260241222825482,
+        "is_hit": false,
+        "text_snippet": "Key Terms\ncyberfeminism the application to and promotion of feminism online\ndesign patents patents that are granted when someone has invented a new and original design for a\nmanufactured product\ndigit"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0231-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 231,
+        "score": 0.6153741969106334,
+        "is_hit": true,
+        "text_snippet": "access, at the same time new media could offer alternative forums for feminist groups and the exchange of\nfeminist ideas. Still, the committee warned against the relatively unregulated environment of "
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0647-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 647,
+        "score": 0.5251198282149903,
+        "is_hit": false,
+        "text_snippet": "llying (Robers et al. 2013).\nCyberbullying represents a powerful change in modern society. William F. Ogburn (1922) might have been\ndescribing it nearly a century ago when he defined \"cultural lag,\" w"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "question": "What is the control theory in sociology?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      201
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0193-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 193,
+        "score": 0.682066599195192,
+        "is_hit": false,
+        "text_snippet": "s, control theory states that social control is directly\naffected by the strength of social bonds and that deviance results from a feeling of disconnection from society.\nIndividuals who believe they a"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0201-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 201,
+        "score": 0.6299378696254845,
+        "is_hit": true,
+        "text_snippet": "Key Terms\nconflict theory a theory that examines social and economic factors as the causes of criminal deviance\ncontrol theory a theory that states social control is directly affected by the strength "
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0193-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 193,
+        "score": 0.6185854003605027,
+        "is_hit": false,
+        "text_snippet": "one does so.\nSutherland’s theory may explain why crime is multigenerational. A longitudinal study beginning in the 1960s\nfound that the best predictor of antisocial and criminal behavior in children w"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "question": "What is corporate crime?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      201
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0195-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 195,
+        "score": 0.6672290006053673,
+        "is_hit": false,
+        "text_snippet": "e, or offenses committed by ordinary people against\nother people or organizations, usually in public spaces. An often overlooked category is corporate crime, or\ncrime committed by white-collar workers"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0203-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 203,
+        "score": 0.5937141403830424,
+        "is_hit": false,
+        "text_snippet": "reestablished their former habits.\nc. The offender has lost the social bonds they made in prison and feels disconnected from society.\nd. The offender is poor and responding to the different cultural v"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0201-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 201,
+        "score": 0.5073030709648836,
+        "is_hit": true,
+        "text_snippet": "Key Terms\nconflict theory a theory that examines social and economic factors as the causes of criminal deviance\ncontrol theory a theory that states social control is directly affected by the strength "
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "question": "What is the conflict theory of criminal deviance?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      201
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0201-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 201,
+        "score": 0.8214619468859492,
+        "is_hit": true,
+        "text_snippet": "Key Terms\nconflict theory a theory that examines social and economic factors as the causes of criminal deviance\ncontrol theory a theory that states social control is directly affected by the strength "
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0193-paragraph-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 193,
+        "score": 0.7426913245716151,
+        "is_hit": false,
+        "text_snippet": "ry\nUniversity of Chicago\nresearchers\nWeak social ties and a lack of social control; society has lost the\nability to enforce norms with some groups\nConflict Theory Associated Theorist Deviance arises f"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0202-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 202,
+        "score": 0.727540214794944,
+        "is_hit": false,
+        "text_snippet": "that help maintain a system of social control. Deviance is often relative, and perceptions of it can change\nquickly and unexpectedly.\n7.2 Theoretical Perspectives on Deviance and Crime\nThe three major"
+      }
+    ],
+    "filter_used": {
+      "document_type": "textbook"
+    },
+    "strategy": "C"
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "question": "How is polygamy described in terms of prevalence in societies where it is most common?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      421
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0442-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 442,
+        "score": 0.7468305923073539,
+        "is_hit": false,
+        "text_snippet": "Mountain Patterns: The Survival of Nuosu Culture in China.” Journal of American\nFolklore 114:451.\nJayson, Sharon. 2010. “What Does a ‘Family’ Look Like Nowadays?” USA Today, November 25. Retrieved\nFeb"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0420-paragraph-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 420,
+        "score": 0.7430745687875465,
+        "is_hit": false,
+        "text_snippet": "vious patterns of marriage will become outdated\nas new patterns emerge. In this context, cohabitation contributes to the phenomenon of people getting\nmarried for the first time at a later age than was"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0421-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 421,
+        "score": 0.720885983981979,
+        "is_hit": true,
+        "text_snippet": "where it is most common, only an average of 11 percent of the population lives in arrangements that include\nmore than one spouse (Kramer 2020). In these relationships, the husbands are often older, we"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "question": "What are the key concepts of Taoism according to the textbook?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      461
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0460-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 460,
+        "score": 0.6459641259674656,
+        "is_hit": false,
+        "text_snippet": "ner peace and harmony. Tao is usually translated as “way” or “path.” The\nfounder of the religion is generally recognized to be a man named Laozi, who lived sometime in the sixth\ncentury B.C.E. in Chin"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0460-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 460,
+        "score": 0.5982997202116905,
+        "is_hit": false,
+        "text_snippet": "cius), who lived in the sixth and fifth centuries B.C.E. An\nextraordinary teacher, his lessons—which were about self-discipline, respect for authority and tradition, and\njen (the kind treatment of eve"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0461-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 461,
+        "score": 0.4792026868189534,
+        "is_hit": true,
+        "text_snippet": "way of modern life in harmony with the former two. The ying-yang symbol and the concept of polar forces are\ncentral Taoist ideas (Smith 1991). Some scholars have compared this Chinese tradition to its"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "question": "What happened to maternal deaths according to Millennium Development Goal 5?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      581
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0580-paragraph-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 580,
+        "score": 0.589834560406627,
+        "is_hit": false,
+        "text_snippet": "/AIDS, malaria, and other diseases. The\ngoals may not seem particularly dramatic, but the numbers behind them show how serious they are.\nFor MDG 4, the WHO reports that 2009 infant mortality rates in "
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0570-paragraph-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 570,
+        "score": 0.5806280412506692,
+        "is_hit": false,
+        "text_snippet": "ding to a 2014 UNICEF report, almost half of the developing world’s\npopulation lacks improved sanitation facilities. The World Health Organization (WHO) tracks health-related\ndata for 193 countries, a"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0570-paragraph-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 570,
+        "score": 0.555138758550195,
+        "is_hit": false,
+        "text_snippet": "regionally, the highest under-five\nmortality rate remains in the WHO African Region (74 per 1000 live births), around 9 times higher than\nthat in the WHO European Region (8 per 1000 live births) (Worl"
+      }
+    ],
+    "filter_used": {
+      "document_type": "textbook"
+    },
+    "strategy": "C"
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "question": "According to the survey data, at what age do Millennials consider someone to be old?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      381
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0380-fixed-0005",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 380,
+        "score": 0.7343858544918712,
+        "is_hit": false,
+        "text_snippet": "elt that people\nreached the prime of life at age 36, before youth ended at age 40. It's worth noting that at the time of the survey,\nthe Millennials were all 36 and younger.\n368 13 • Aging and the Eld"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0381-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 381,
+        "score": 0.7135040156037828,
+        "is_hit": true,
+        "text_snippet": "Boomer response Gen X response Millennial response\nAt what age does youth end? 31 31 40\nAt what age is the prime of life? 50 47 36\nAt what age is someone old? 73 65 59\nTABLE 13.1 A survey conducted by"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0382-fixed-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 382,
+        "score": 0.6346072063523067,
+        "is_hit": false,
+        "text_snippet": "est population group was age thirty-five to fifty-five. In 2010, that group\nwas age forty-five to sixty-five, meaning the oldest baby Boomers were just reaching the age at which the U.S.\nCensus consid"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "question": "At what age do Baby Boomers consider the prime of life to be?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      381
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0380-fixed-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 380,
+        "score": 0.7114115889679451,
+        "is_hit": false,
+        "text_snippet": "ories in life. Members of\nthe Baby Boom generation indicate that a person is officially \"old\" when they turn 73 years old. Millennials, a\nmuch younger group, felt that people became old when they turn"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0411-fixed-0005",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 411,
+        "score": 0.6631281262983113,
+        "is_hit": false,
+        "text_snippet": "sights/MGI/Research/\nAmericas/Talkin_bout_my_generation).\nGerontological Society of America. 2008. “Baby Boomer Health Care Crisis Looms.” Science Daily, April 17.\nRetrieved January 31, 2012 (http://w"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0382-fixed-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 382,
+        "score": 0.6628817688607442,
+        "is_hit": false,
+        "text_snippet": "est population group was age thirty-five to fifty-five. In 2010, that group\nwas age forty-five to sixty-five, meaning the oldest baby Boomers were just reaching the age at which the U.S.\nCensus consid"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "question": "What was Korea's relationship with Japan in the early twentieth century?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      141
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0141-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 141,
+        "score": 0.6422246758825145,
+        "is_hit": true,
+        "text_snippet": "the textbooks glossed over negative events in Japan’s history at the expense of other Asian countries.\nIn the early 1900s, Japan was one of Asia’s more aggressive nations. For instance, it held Korea "
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0319-fixed-0005",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 319,
+        "score": 0.46987531195768273,
+        "is_hit": false,
+        "text_snippet": "i to participate in the sugar industry; others came to the mainland, especially to\nCalifornia. Unlike the Chinese, however, the Japanese had a strong government that negotiated with the U.S.\ngovernmen"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0153-fixed-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 153,
+        "score": 0.4430942945258558,
+        "is_hit": false,
+        "text_snippet": "tion Survey.” The Henry J. Kaiser Family Foundation. Retrieved February 14, 2012\n(http://www.kff.org/entmedia/upload/7638.pdf).\nRose, Steve. 2011. “Studio Ghibli: Leave the Boys Behind.” The Guardian,"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "question": "What is miscegenation and when was it considered illegal?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      301
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0185-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 185,
+        "score": 0.4437718998133253,
+        "is_hit": false,
+        "text_snippet": "spiking during the War on Drugs, with racially and ethnically disparate applications. But more recently, as\ndiscussed in the introduction, marijuana is once again seen as an important medical treatmen"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0194-fixed-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 194,
+        "score": 0.4090596689181305,
+        "is_hit": false,
+        "text_snippet": "other hand, is a behavior that violates official law and is punishable through formal sanctions. Walking\nto class backward is a deviant behavior. Driving with a blood alcohol percentage over the state"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0301-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 301,
+        "score": 0.40756118901337013,
+        "is_hit": true,
+        "text_snippet": "Multiple Identities\nFIGURE 11.2 Golfer Tiger Woods has Chinese, Thai, African American, Native American, and Dutch heritage.\nIndividuals with multiple ethnic backgrounds are becoming more common. (Cre"
+      }
+    ],
+    "filter_used": {
+      "document_type": "textbook"
+    },
+    "strategy": "A"
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "question": "What did Jerry Newman's undercover work at fast food restaurants reveal?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      171
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0171-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 171,
+        "score": 0.6830786416599083,
+        "is_hit": true,
+        "text_snippet": "McJob rather than a real job.\nBut business school professor Jerry Newman went undercover and worked behind the counter at seven fast food\nrestaurants to discover what really goes on there. His book, M"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0178-fixed-0006",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 178,
+        "score": 0.46339986354936574,
+        "is_hit": false,
+        "text_snippet": "y Secret Life on the McJob. New York: McGraw-Hill.\nRitzer, George. 1993. The McDonaldization of Society. Thousand Oaks, CA: Pine Forge.\nSchlosser, Eric. 2001. Fast Food Nation: The Dark Side of the Al"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0170-fixed-0009",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 170,
+        "score": 0.4439060705680451,
+        "is_hit": false,
+        "text_snippet": "l by Eric Schossler, paint\nan ugly picture of what goes in, what goes on, and what comes out of fast food chains. From their environmental\nimpact to their role in the U.S. obesity epidemic, fast food "
+      }
+    ],
+    "filter_used": null,
+    "strategy": "A"
+  },
+  {
+    "question_id": "q21",
+    "split": "test",
+    "question": "What is the role of the independent variable in sociological research as explained in the textbook?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      51
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0050-fixed-0004",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 50,
+        "score": 0.7189584019396811,
+        "is_hit": false,
+        "text_snippet": "ch, we formulate hypotheses to include an independent variable (IV), which is the cause of\nthe change, and a dependent variable (DV), which is the effect, or thing that is changed. In the example abov"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0051-fixed-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 51,
+        "score": 0.7097366049866507,
+        "is_hit": true,
+        "text_snippet": "Taking an example from Table 12.1, a researcher might hypothesize that teaching children proper hygiene (the\nindependent variable) will boost their sense of self-esteem (the dependent variable). Note,"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0050-fixed-0005",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 50,
+        "score": 0.6663341957676565,
+        "is_hit": false,
+        "text_snippet": "ariable. How does gender (the independent variable)\naffect rate of income (the dependent variable)? How does one’s religion (the independent variable) affect family\nsize (the dependent variable)? How "
+      }
+    ],
+    "filter_used": {
+      "document_type": "textbook"
+    },
+    "strategy": "A"
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "question": "According to the survey data, at what age do Millennials consider someone to be old?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      381
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0380-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 380,
+        "score": 0.7741331396603507,
+        "is_hit": false,
+        "text_snippet": "people in\nsociety. As the table demonstrates, different generations have varying perspectives on aging. Researchers\nasked questions about the ages at which people reach certain milestones or new categ"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0381-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 381,
+        "score": 0.6949764340168574,
+        "is_hit": true,
+        "text_snippet": "Boomer response Gen X response Millennial response\nAt what age does youth end? 31 31 40\nAt what age is the prime of life? 50 47 36\nAt what age is someone old? 73 65 59\nTABLE 13.1 A survey conducted by"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0420-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 420,
+        "score": 0.64672535069883,
+        "is_hit": false,
+        "text_snippet": "the fundamentals of emotional closeness and support are still present. Most\nresponders to the Pew survey stated that their family today is at least as close (45 percent) or closer (40\npercent) than th"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "question": "At what age do Baby Boomers consider the prime of life to be?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      381
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0380-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 380,
+        "score": 0.7138900451396342,
+        "is_hit": false,
+        "text_snippet": "people in\nsociety. As the table demonstrates, different generations have varying perspectives on aging. Researchers\nasked questions about the ages at which people reach certain milestones or new categ"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0382-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 382,
+        "score": 0.6621815756511238,
+        "is_hit": false,
+        "text_snippet": "FIGURE 13.6 This U.S. Census graph shows the number of males per 100 females. However, over the past two\ndecades, men have narrowed the percentage by which women outlive them. (Credit: the U.S. Census"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0382-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 382,
+        "score": 0.6387813445045628,
+        "is_hit": false,
+        "text_snippet": "ts designed to ward off the effects—or the signs—of aging.\nPrevious generations of people over sixty-five were “old.” Baby Boomers are in “later life” or “the third age”\n(Gilleard and Higgs 2007).\nThe"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "question": "What was Korea's relationship with Japan in the early twentieth century?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      141
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0141-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 141,
+        "score": 0.5958556900810389,
+        "is_hit": true,
+        "text_snippet": "the textbooks glossed over negative events in Japan’s history at the expense of other Asian countries.\nIn the early 1900s, Japan was one of Asia’s more aggressive nations. For instance, it held Korea "
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0319-paragraph-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 319,
+        "score": 0.44964130064858265,
+        "is_hit": false,
+        "text_snippet": "government that negotiated with the U.S.\ngovernment to ensure the well-being of their immigrants. Japanese men were able to bring their wives and\nfamilies to the United States, and were thus able to p"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0153-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 153,
+        "score": 0.4260758065216125,
+        "is_hit": false,
+        "text_snippet": "neontommy.com/news/2011/01/princess-effect-\nare-girls-too-tangled-disneys-fantasy).\nRoberts, Donald F., Ulla G. Foehr, and Victoria Rideout. 2005. “Parents, Children, and Media: A Kaiser Family\nFounda"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "question": "What is miscegenation and when was it considered illegal?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      301
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0311-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 311,
+        "score": 0.44258521744425444,
+        "is_hit": false,
+        "text_snippet": "Amalgamation\nAmalgamation is the process by which a minority group and a majority group combine to form a new group.\nAmalgamation creates the classic “melting pot” analogy; unlike the “salad bowl,” in"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0185-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 185,
+        "score": 0.4355054147270722,
+        "is_hit": false,
+        "text_snippet": "spiking during the War on Drugs, with racially and ethnically disparate applications. But more recently, as\ndiscussed in the introduction, marijuana is once again seen as an important medical treatmen"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0194-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 194,
+        "score": 0.4128351414004479,
+        "is_hit": false,
+        "text_snippet": "a violation of social norms, it’s not always punishable, and it’s not necessarily bad. Crime,\non the other hand, is a behavior that violates official law and is punishable through formal sanctions. Wa"
+      }
+    ],
+    "filter_used": {
+      "document_type": "textbook"
+    },
+    "strategy": "B"
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "question": "What did Jerry Newman's undercover work at fast food restaurants reveal?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      171
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0171-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 171,
+        "score": 0.6851969908288458,
+        "is_hit": true,
+        "text_snippet": "McJob rather than a real job.\nBut business school professor Jerry Newman went undercover and worked behind the counter at seven fast food\nrestaurants to discover what really goes on there. His book, M"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0170-paragraph-0005",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 170,
+        "score": 0.4397104506256433,
+        "is_hit": false,
+        "text_snippet": "Food Nation: The Dark Side of the All-American Meal by Eric Schossler, paint\nan ugly picture of what goes in, what goes on, and what comes out of fast food chains. From their environmental\nimpact to t"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0178-paragraph-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 178,
+        "score": 0.4025356602157205,
+        "is_hit": false,
+        "text_snippet": ".\nFuchs, Victor R.. 1997. “Managed Care and Merger Mania,” JAMA 277.11 (920-921).\nGoffman, Erving. 1961. Asylums: Essays on the Social Situation of Mental Patients and Other Inmates. Chicago,\nIL: Aldi"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "B"
+  },
+  {
+    "question_id": "q21",
+    "split": "test",
+    "question": "What is the role of the independent variable in sociological research as explained in the textbook?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      51
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0050-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 50,
+        "score": 0.6655874182993091,
+        "is_hit": false,
+        "text_snippet": ". For example, a hypothesis might be in the form of an “if, then” statement.\nLet’s relate this to our topic of crime: If unemployment increases, then the crime rate will increase.\nIn scientific resear"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0050-paragraph-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 50,
+        "score": 0.6324434611330205,
+        "is_hit": false,
+        "text_snippet": "affect family\nsize (the dependent variable)? How is social class (the dependent variable) affected by level of education (the\nindependent variable)?\nHypothesis Independent\nVariable\nDependent\nVariable\n"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0051-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 51,
+        "score": 0.60657287559388,
+        "is_hit": true,
+        "text_snippet": "Taking an example from Table 12.1, a researcher might hypothesize that teaching children proper hygiene (the\nindependent variable) will boost their sense of self-esteem (the dependent variable). Note,"
+      }
+    ],
+    "filter_used": {
+      "document_type": "textbook"
+    },
+    "strategy": "B"
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "question": "According to the survey data, at what age do Millennials consider someone to be old?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      381
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0380-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 380,
+        "score": 0.7741331396603507,
+        "is_hit": false,
+        "text_snippet": "people in\nsociety. As the table demonstrates, different generations have varying perspectives on aging. Researchers\nasked questions about the ages at which people reach certain milestones or new categ"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0381-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 381,
+        "score": 0.6949764340168574,
+        "is_hit": true,
+        "text_snippet": "Boomer response Gen X response Millennial response\nAt what age does youth end? 31 31 40\nAt what age is the prime of life? 50 47 36\nAt what age is someone old? 73 65 59\nTABLE 13.1 A survey conducted by"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0420-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 420,
+        "score": 0.64672535069883,
+        "is_hit": false,
+        "text_snippet": "the fundamentals of emotional closeness and support are still present. Most\nresponders to the Pew survey stated that their family today is at least as close (45 percent) or closer (40\npercent) than th"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "question": "At what age do Baby Boomers consider the prime of life to be?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      381
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0380-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 380,
+        "score": 0.7138900451396342,
+        "is_hit": false,
+        "text_snippet": "people in\nsociety. As the table demonstrates, different generations have varying perspectives on aging. Researchers\nasked questions about the ages at which people reach certain milestones or new categ"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0382-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 382,
+        "score": 0.6621815756511238,
+        "is_hit": false,
+        "text_snippet": "FIGURE 13.6 This U.S. Census graph shows the number of males per 100 females. However, over the past two\ndecades, men have narrowed the percentage by which women outlive them. (Credit: the U.S. Census"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0382-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 382,
+        "score": 0.6387813445045628,
+        "is_hit": false,
+        "text_snippet": "ts designed to ward off the effects—or the signs—of aging.\nPrevious generations of people over sixty-five were “old.” Baby Boomers are in “later life” or “the third age”\n(Gilleard and Higgs 2007).\nThe"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "question": "What was Korea's relationship with Japan in the early twentieth century?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      141
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0141-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 141,
+        "score": 0.5958556900810389,
+        "is_hit": true,
+        "text_snippet": "the textbooks glossed over negative events in Japan’s history at the expense of other Asian countries.\nIn the early 1900s, Japan was one of Asia’s more aggressive nations. For instance, it held Korea "
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0319-paragraph-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 319,
+        "score": 0.44964130064858265,
+        "is_hit": false,
+        "text_snippet": "government that negotiated with the U.S.\ngovernment to ensure the well-being of their immigrants. Japanese men were able to bring their wives and\nfamilies to the United States, and were thus able to p"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0153-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 153,
+        "score": 0.4260758065216125,
+        "is_hit": false,
+        "text_snippet": "neontommy.com/news/2011/01/princess-effect-\nare-girls-too-tangled-disneys-fantasy).\nRoberts, Donald F., Ulla G. Foehr, and Victoria Rideout. 2005. “Parents, Children, and Media: A Kaiser Family\nFounda"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "question": "What is miscegenation and when was it considered illegal?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      301
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0311-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 311,
+        "score": 0.44258521744425444,
+        "is_hit": false,
+        "text_snippet": "Amalgamation\nAmalgamation is the process by which a minority group and a majority group combine to form a new group.\nAmalgamation creates the classic “melting pot” analogy; unlike the “salad bowl,” in"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0185-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 185,
+        "score": 0.4355054147270722,
+        "is_hit": false,
+        "text_snippet": "spiking during the War on Drugs, with racially and ethnically disparate applications. But more recently, as\ndiscussed in the introduction, marijuana is once again seen as an important medical treatmen"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0194-paragraph-0001",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 194,
+        "score": 0.4128351414004479,
+        "is_hit": false,
+        "text_snippet": "a violation of social norms, it’s not always punishable, and it’s not necessarily bad. Crime,\non the other hand, is a behavior that violates official law and is punishable through formal sanctions. Wa"
+      }
+    ],
+    "filter_used": {
+      "document_type": "textbook"
+    },
+    "strategy": "C"
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "question": "What did Jerry Newman's undercover work at fast food restaurants reveal?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      171
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0171-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 171,
+        "score": 0.6851969908288458,
+        "is_hit": true,
+        "text_snippet": "McJob rather than a real job.\nBut business school professor Jerry Newman went undercover and worked behind the counter at seven fast food\nrestaurants to discover what really goes on there. His book, M"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0170-paragraph-0005",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 170,
+        "score": 0.4397104506256433,
+        "is_hit": false,
+        "text_snippet": "Food Nation: The Dark Side of the All-American Meal by Eric Schossler, paint\nan ugly picture of what goes in, what goes on, and what comes out of fast food chains. From their environmental\nimpact to t"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0178-paragraph-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 178,
+        "score": 0.4025356602157205,
+        "is_hit": false,
+        "text_snippet": ".\nFuchs, Victor R.. 1997. “Managed Care and Merger Mania,” JAMA 277.11 (920-921).\nGoffman, Erving. 1961. Asylums: Essays on the Social Situation of Mental Patients and Other Inmates. Chicago,\nIL: Aldi"
+      }
+    ],
+    "filter_used": null,
+    "strategy": "C"
+  },
+  {
+    "question_id": "q21",
+    "split": "test",
+    "question": "What is the role of the independent variable in sociological research as explained in the textbook?",
+    "gold_source_id": "openstax-introduction-sociology-3e",
+    "gold_page": [
+      51
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "top3": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax-introduction-sociology-3e-p0050-paragraph-0002",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 50,
+        "score": 0.6655874182993091,
+        "is_hit": false,
+        "text_snippet": ". For example, a hypothesis might be in the form of an “if, then” statement.\nLet’s relate this to our topic of crime: If unemployment increases, then the crime rate will increase.\nIn scientific resear"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax-introduction-sociology-3e-p0050-paragraph-0003",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 50,
+        "score": 0.6324434611330205,
+        "is_hit": false,
+        "text_snippet": "affect family\nsize (the dependent variable)? How is social class (the dependent variable) affected by level of education (the\nindependent variable)?\nHypothesis Independent\nVariable\nDependent\nVariable\n"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax-introduction-sociology-3e-p0051-paragraph-0000",
+        "source": "openstax-introduction-sociology-3e",
+        "page": 51,
+        "score": 0.60657287559388,
+        "is_hit": true,
+        "text_snippet": "Taking an example from Table 12.1, a researcher might hypothesize that teaching children proper hygiene (the\nindependent variable) will boost their sense of self-esteem (the dependent variable). Note,"
+      }
+    ],
+    "filter_used": {
+      "document_type": "textbook"
+    },
+    "strategy": "C"
+  }
+]

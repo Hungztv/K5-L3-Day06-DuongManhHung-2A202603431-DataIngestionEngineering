@@ -1,0 +1,17 @@
+{
+  "A": {
+    "strategy": "fixed_size(size=500, overlap=50)",
+    "count": 4481,
+    "avg_chars": 465
+  },
+  "B": {
+    "strategy": "by_paragraph(max_size=800)",
+    "count": 2726,
+    "avg_chars": 695
+  },
+  "C": {
+    "strategy": "by_paragraph(max_size=800) + chapter/document_type/language metadata",
+    "count": 2726,
+    "avg_chars": 695
+  }
+}

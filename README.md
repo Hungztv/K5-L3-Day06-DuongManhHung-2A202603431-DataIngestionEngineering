@@ -1,47 +1,86 @@
 # Day 06 · Data Ingestion Engineering
 
-**Lab cá nhân** · **4 giờ** · **Dữ liệu tự chọn**
+**Học viên:** Dương Mạnh Hùng — **MSSV:** 2A202603431 — **Lớp:** L3  
+**Báo cáo chi tiết:** [`report/individual/2A202603431_DuongManhHung.md`](report/individual/2A202603431_DuongManhHung.md)  
+**Nhật ký thí nghiệm:** [`artifacts/experiment_log.csv`](artifacts/experiment_log.csv)
 
-Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, rồi đo xem cách chuẩn bị dữ liệu nào hiệu quả nhất.
+---
 
-| 📄 Dữ liệu | 🧩 Chiến lược | 🎯 Benchmark |
-|---|---|---|
-| Tối thiểu **30 trang nội dung** | Tối thiểu **3 cấu hình** | Tối thiểu **20 câu hỏi** |
+## Hướng dẫn cài đặt & tái lập kết quả
 
-## Bắt đầu nhanh
+Giải pháp dùng **hoàn toàn local** (không cần Docker / PostgreSQL):
 
-Dùng [starter PostgreSQL + pgvector](starter/README.md) để dựng database và hoàn thiện các hàm TODO, hoặc tự chọn vector store tương đương. Starter chỉ là khung: **bạn tự hiện thực pipeline và benchmark**.
+- **Vector Store:** `qdrant-client` local PersistentClient — lưu tại `starter/qdrant_db/`, metric `cosine`
+- **Embedding Model:** `sentence-transformers/all-MiniLM-L6-v2` — 384 chiều, chạy CPU
+- **Corpus:** *Introduction to Sociology 3e* — OpenStax, CC BY 4.0 — 662 trang nội dung
 
-## 1. Xây pipeline
+### 1. Cài đặt (Python 3.11+)
 
-![Đọc tài liệu, chuẩn hóa, chia chunk, tạo vector, lưu và kiểm tra](assets/ingestion-pipeline.svg)
+```powershell
+cd starter
+pip install -r requirements.txt
+```
 
-Chọn tài liệu được phép sử dụng; giữ **ID tài liệu, nguồn, trang/vị trí** và metadata phù hợp. Dùng embedding model thật qua API hoặc chạy local; lưu và truy xuất bằng pgvector, Qdrant, Chroma hoặc một store tương đương.
+### 2. Chạy pipeline và benchmark
 
-## 2. So sánh và đánh giá
+```powershell
+python -m src.run
+```
 
-![Ba chiến lược được đánh giá trên cùng corpus và benchmark dev/test](assets/benchmark-workflow.svg)
+Lần đầu: tải model ~90MB, embed 3 chiến lược (~4–5 phút CPU).  
+Lần sau: data có sẵn trong `qdrant_db/` → chỉ chạy benchmark, rất nhanh.
 
-Dùng cùng dữ liệu, model và câu hỏi cho cả ba cấu hình. Tách **15 câu dev / 5 câu test** trước khi chạy; chọn cấu hình trên dev, rồi đánh giá test sau khi cố định. Mỗi câu hỏi cần có đoạn bằng chứng và trang nguồn; thiết kế bộ câu hỏi và đánh giá theo [BENCHMARK.md](BENCHMARK.md).
+### 3. Kết quả đầu ra
 
-Đánh giá theo năm khía cạnh: **độ chính xác truy xuất**, **tính mạch lạc của chunk**, **tính hữu dụng của metadata**, **chất lượng grounding** và **tác động của chiến lược dữ liệu**. Giải thích lựa chọn bằng kết quả, ví dụ lỗi và các đánh đổi.
-
-## 3. Chuẩn bị bài nộp
-
-1. Chạy pipeline và lưu cấu hình, kết quả top-3, trace cùng nhãn đánh giá thủ công.
-2. Điền [thông tin học viên](STUDENT.md), [nhật ký thí nghiệm](artifacts/experiment_log.csv) và bản sao [mẫu báo cáo cá nhân](report/individual/MSSV_HoTen.md).
-3. Kiểm tra mã nguồn, cách chạy, manifest dữ liệu và checklist trong [SUBMISSION.md](SUBMISSION.md).
-
-## Tài liệu hướng dẫn
-
-| Bạn cần tìm | Tài liệu |
+| File | Nội dung |
 |---|---|
-| Setup baseline PostgreSQL + pgvector | [starter/README.md](starter/README.md) |
+| `starter/results/traces.json` | Trace top-3 cho từng câu hỏi, cả 3 chiến lược |
+| `starter/results/summary.json` | Hit@1 và EvidHit@3 theo dev/test |
+| `starter/results/chunk_stats.json` | Số chunk và avg char mỗi chiến lược |
+
+---
+
+## Kết quả Benchmark (21 câu: 15 dev / 6 test)
+
+| Chiến lược | Chunking | Filter | Dev Hit@1 | Dev EvidHit@3 | Test Hit@1 | Test EvidHit@3 | Chunk |
+|---|---|---|---|---|---|---|---|
+| **A** | `fixed_size(500, overlap=50)` | — | **46.7%** (7/15) | 80.0% (12/15) | 33.3% (2/6) | **83.3%** (5/6) | 4481 |
+| **B** | `by_paragraph(max=800)` | — | 26.7% (4/15) | **93.3%** (14/15) | 33.3% (2/6) | 66.7% (4/6) | 2726 |
+| **C** | `by_paragraph(max=800)` | `document_type=textbook` | 26.7% (4/15) | **93.3%** (14/15) | 33.3% (2/6) | 66.7% (4/6) | 2726 |
+
+**Chiến lược được chọn: B** — EvidHit@3 dev cao nhất (93.3%), ít chunk hơn A (inference nhanh hơn), bảo toàn ngữ cảnh đoạn văn tốt nhất.
+
+---
+
+## Cấu trúc repo
+
+```
+starter/
+├── src/                    # Pipeline code (ingestion, chunking, embeddings, store, evaluation, run)
+├── data/
+│   ├── manifest.json       # Nguồn, giấy phép, số trang
+│   ├── benchmark.json      # 21 câu hỏi với gold evidence (tách trước khi chạy)
+│   └── openstax-*.pdf      # Corpus (CC BY 4.0)
+├── results/                # traces.json, summary.json, chunk_stats.json
+├── qdrant_db/              # Vector store local (gitignore)
+├── requirements.txt        # pypdf, python-dotenv, sentence-transformers, qdrant-client
+└── .env                    # EMBEDDING_MODEL, QDRANT_DIR (không commit)
+artifacts/
+└── experiment_log.csv      # Cấu hình A/B/C và kết quả
+benchmark/
+└── benchmark.json          # Bản sao benchmark questions
+report/individual/
+└── 2A202603431_DuongManhHung.md  # Báo cáo cá nhân đầy đủ
+```
+
+---
+
+## Tài liệu hướng dẫn gốc
+
+| Cần tìm | Tài liệu |
+|---|---|
 | Các bước làm và cách tính chỉ số | [GUIDE.md](GUIDE.md) |
-| Tiến độ trong 4 giờ | [CHECKPOINTS.md](CHECKPOINTS.md) |
-| Năm tiêu chí benchmark và bộ câu hỏi | [BENCHMARK.md](BENCHMARK.md) |
+| Năm tiêu chí benchmark | [BENCHMARK.md](BENCHMARK.md) |
 | Tiêu chí chấm điểm | [RUBRIC.md](RUBRIC.md) |
 | Quy tắc sử dụng dữ liệu, AI và API | [RULES.md](RULES.md) |
 | Cách nộp bài | [SUBMISSION.md](SUBMISSION.md) |
-
-[data/format-example.json](data/format-example.json) chỉ minh họa định dạng, không phải corpus đủ điều kiện. Phần xử lý và benchmark do bạn tự hiện thực; không bắt buộc xây chatbot.
